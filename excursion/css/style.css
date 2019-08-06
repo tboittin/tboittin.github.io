@@ -1,0 +1,47 @@
+html {
+  font-family: verdana;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+h4 {
+  font-size: 16px;
+  color: aquamarine;
+  text-decoration: underline;
+
+}
+
+p {
+  text-align: right;
+  color: gray;
+}
+
+video {
+  position: static;
+}
+
+img {
+  position: static;
+  padding: 5px;
+  margin: 5px;
+}
+
+a:active{
+  color: yellow;
+}
