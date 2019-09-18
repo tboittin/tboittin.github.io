@@ -1,3 +1,0 @@
-bootstrap 4 cheat sheet:
-	https://rodaboatsyachts.com/assets/files/specifications/bootstrap-4-cheat-sheet-bc-1-0-gumroad.pdf
-
