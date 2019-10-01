@@ -1,0 +1,53 @@
+/*Test 1*/
+/*
+*{
+  --primary: #8ac282;
+  --secondary: #1A4314;
+}
+
+.bg-primary {
+  background-color: #8ac282!important;
+}
+
+.bg-secondary {
+  background-color: #1A4314!important;
+}
+
+.text-primary {
+  color: #8ac282!important;
+}
+
+.text-secondary {
+  color: #1A4314!important;
+}
+
+.divider-custom .divider-custom-line {
+  background-color: #1A4314;
+}
+
+.footer {
+  background-color: #1A4314!important;
+}
+
+@media (min-width: 992px) {
+  #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
+      color: #fff;
+      background: #8ac282;
+  }
+}
+*/
+
+/*Test 2*/
+/*
+.bg-primary {
+  background-color: #B2D2A4!important;
+}
+
+.bg-secondary {
+  background-color: #1A4314!important;
+}
+*/
+
+nav {
+  width: 100%;
+}
