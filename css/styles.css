@@ -48,6 +48,12 @@
 }
 */
 
-body {
-  overflow: hidden;
+.row {
+  max-width: 100%;
+  margin: auto;
 }
+
+#skills {
+  overflow-x: hidden;
+}
+
