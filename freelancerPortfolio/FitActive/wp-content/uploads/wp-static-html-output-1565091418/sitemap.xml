@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://OFFLINEZIP.wpshositemaps_xsl.xsl/"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>http://OFFLINEZIP.wpshositemaps/post.xml</loc>
+<lastmod>2019-03-20T12:11:54+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>http://OFFLINEZIP.wpshositemaps/page.xml</loc>
+<lastmod>2019-03-20T07:41:33+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>http://OFFLINEZIP.wpshositemaps/category.xml</loc>
+</sitemap>
+</sitemapindex>
