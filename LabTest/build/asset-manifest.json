@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6ba6ddd.chunk.css",
+    "main.js": "/static/js/main.a4d1137c.chunk.js",
+    "main.js.map": "/static/js/main.a4d1137c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e81888ef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e81888ef.js.map",
+    "static/js/2.15b34365.chunk.js": "/static/js/2.15b34365.chunk.js",
+    "static/js/2.15b34365.chunk.js.map": "/static/js/2.15b34365.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.00e54b80f1cd3646072cd02248836dd1.js": "/precache-manifest.00e54b80f1cd3646072cd02248836dd1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e6ba6ddd.chunk.css.map": "/static/css/main.e6ba6ddd.chunk.css.map",
+    "static/js/2.15b34365.chunk.js.LICENSE.txt": "/static/js/2.15b34365.chunk.js.LICENSE.txt",
+    "static/media/IMI-icon-human.svg": "/static/media/IMI-icon-human.a6f407e8.svg",
+    "static/media/IMI-icon-information.svg": "/static/media/IMI-icon-information.5c11d146.svg",
+    "static/media/IMI-icon-less.svg": "/static/media/IMI-icon-less.988780db.svg",
+    "static/media/IMI-icon-machine.svg": "/static/media/IMI-icon-machine.f425c624.svg",
+    "static/media/IMI-icon-more.svg": "/static/media/IMI-icon-more.7b5b9f2b.svg",
+    "static/media/messagere.jpg": "/static/media/messagere.eaca1809.jpg",
+    "static/media/pic2.jpg": "/static/media/pic2.732c3d21.jpg",
+    "static/media/pic3.jpg": "/static/media/pic3.21078325.jpg",
+    "static/media/pic4.jpg": "/static/media/pic4.bf7ff3b5.jpg",
+    "static/media/pic5.jpg": "/static/media/pic5.e53788bb.jpg",
+    "static/media/pic6.jpg": "/static/media/pic6.ab8d5bfd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81888ef.js",
+    "static/js/2.15b34365.chunk.js",
+    "static/css/main.e6ba6ddd.chunk.css",
+    "static/js/main.a4d1137c.chunk.js"
+  ]
+}
